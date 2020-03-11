@@ -1,0 +1,8 @@
+server:
+  port: 9000
+
+okta:
+  oauth2:
+    issuer: https://dev-275822.okta.com/oauth2/default
+    clientId: 0oa3da9roANxEOlr04x6
+    scope: openid profile email
